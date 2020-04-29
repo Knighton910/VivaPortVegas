@@ -1,7 +1,7 @@
 module.exports = {
   name: 'London SNATCH',
   shortName: 'London',
-  description: 'Kelvin Knighton\'s Portfolio',
+  description: 'Hi, I\'m Kelvin and I\'m a Backend & React developer',
   url: 'https://gatsby-london.netlify.com', // Domain of your site without prefix!
   prefix: '/',
   author: 'Imed Adel',

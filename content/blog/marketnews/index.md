@@ -1,7 +1,7 @@
 ---
-title: Darkness
+title: Stock Market News
 date: "2019-05-08"
-thumbnail: ./bbbb.jpg
+thumbnail: ./stockmarketnews.png
 description: Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that.
 ---
 
