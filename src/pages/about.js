@@ -18,8 +18,8 @@ const AboutPage = ({ data }, location) => {
       <article className="post-content page-template no-image">
         <div className="post-content-body">
           <h2 id="clean-minimal-and-deeply-customisable-london-is-a-theme-made-for-people-who-appreciate-simple-lines-">
-            Clean, minimal, and deeply customisable. London is a theme made for
-            people who appreciate simple lines.
+            Im Kelvin Knighton I enjoy building things with JavaScript
+            on the Backend and Full Stack.
           </h2>
           <figure className="kg-card kg-image-card kg-width-full">
             <Img
@@ -28,26 +28,25 @@ const AboutPage = ({ data }, location) => {
             />
             <figcaption>Large imagery is at the heart of this theme</figcaption>
           </figure>
-          <h3 id="dynamic-styles">Dynamic styles</h3>
+          <h3 id="dynamic-styles">Try, fail, improve then repeat</h3>
           <p>
-            London comes with photo-centric main layout best suited to
-            photography, graphics portfolios and other image-heavy uses.
+            My roommate introduced me to code around 2014, I took to it
+            consuming online courses and switching my major to CS for it.
           </p>
           <p>
-            Both post and page templates are light and minimal, with all the
-            focus on the content while the design of the theme gets out of the
-            way. Beneath the hood, London enjoys the full power of the{" "}
-            <a href="https://docs.ghost.org/api/handlebars-themes/">
-              Ghost Handlebars Theme API
-            </a>{" "}
-            to provide limitless customisation options and dynamic styles.
+            I loved the programming classes in college, but real experience
+            came from linking up with other developers and coding basic projects
+            with javaScript and HTML, I got my start with an internship at a local
+            startup here in San Diego I was on the backend javascript team and
+            from there I went on to the  {" "}<a>Node.js foundation</a>{" "}
+            doing open source full time.
           </p>
           <p>
-            Don't forget to check out the{" "}
-            <a href="https://docs.ghost.org/integrations/">
-              Ghost Integrations Directory
-            </a>{" "}
-            for more ways to integrate Ghost with your favourite services.
+           From there I've worked for a local startup after that experience
+            I decided to start my own company, so now I'm an entrepreneur and
+            I do freelance. I've always done projects for people and for my
+            own while working. Thank for being here with me, you could have
+            any where else in the world but you are here with me.
           </p>
         </div>
       </article>

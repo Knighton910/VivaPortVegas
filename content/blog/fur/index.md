@@ -1,7 +1,7 @@
 ---
 title: The fur series
 date: "2019-05-01"
-thumbnail: ./charles-deluvio-550068-unsplash.jpg
+thumbnail: ./ava.png
 description: I have one pug and one Czechoslovakian dog called Prazsky krysarik.
 ---
 
