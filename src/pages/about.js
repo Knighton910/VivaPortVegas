@@ -21,7 +21,7 @@ const AboutPage = ({ data }, location) => {
             Im Kelvin Knighton I enjoy building things with JavaScript
             on the Backend and Full Stack.
           </h2>
-          <figure className="kg-card kg-image-card kg-width-full">
+          <figure className="kg-card kg-image-card">
             <Img
               fluid={data.benchAccounting.childImageSharp.fluid}
               className="kg-image"
@@ -62,7 +62,7 @@ const indexQuery = graphql`
       }
     }
     benchAccounting: file(
-      relativePath: { eq: "bench-accounting-49909-unsplash.jpg" }
+      relativePath: { eq: "me_.jpg" }
     ) {
       childImageSharp {
         fluid(maxWidth: 1360) {
